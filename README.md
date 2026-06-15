@@ -1,7 +1,7 @@
 # TP2 – File Integrity Checker and IOC Matcher in Rust
 
 Module 7.1 – Programming with Rust  
-Student: S. Biha | 2025–2026
+Student: Taher Ahmedou | 2025–2026
 
 ## Usage
 ```bash
