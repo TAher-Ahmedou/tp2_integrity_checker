@@ -1,0 +1,5 @@
+path,sha256,status,label
+samples/files/clean_readme.txt,70bbeaa0f2d408a45827aa9d5bd58209564a5bd7b61d6c069267c9e9e35f97cd,CLEAN,
+samples/files/notes.txt,1888673b4c962129e57b54b81fda2f967c52f87c28e9d7908e5fba0dfed097e3,CLEAN,
+samples/files/subdir/extra.txt,f731c675d075aa4613164815b8a3e47277daf93a73d8573003b06206b7a21671,CLEAN,
+samples/files/suspicious_dropper.txt,44ea92bec1f9e8aa690d8aceddf1294e9fb4a71d39769d6f383e3915ac76bb3b,MATCH,Demo suspicious test sample

@@ -1,0 +1,4 @@
+#hash, label
+44ea92bec1f9e8aa690d8aceddf1294e9fb4a71d39769d6f383e3915ac76bb3b, Demo suspicious test sample
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, Fake known malware hash
+INVALID_HASH_LINE_SHOULD_BE_IGNORED
